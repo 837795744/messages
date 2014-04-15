@@ -1,0 +1,35 @@
+    .msg{
+        margin-bottom:10px ;
+    }
+    .msgtitle{
+        height: 40px;
+        background-color: #fff;
+        margin-bottom: 1px;
+    }
+    .msgtitle a{
+        float: right;
+        margin-right: 20px;
+    }
+    .msgcontent{
+        min-height: 40px;
+        width: 550px;
+        float: left;
+        margin-left: 40px;
+    }
+    .slidebar{      
+        width: 130px;
+        position: relative;
+        float: right;
+        margin-right: 10px;
+        margin-bottom: 5px;
+    }
+    .reply{
+        margin-right: 60px;
+        border :1px dashed #CC3333;
+        float: right;
+    }
+    .replytitle{
+        height: 30px;
+        border-bottom: 1px dashed #CC3333;
+        background-color: #FFF;
+    }
